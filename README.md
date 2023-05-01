@@ -20,7 +20,7 @@ Open PostgreSQL cli : `npm run db-console:docker`, password to database enter is
 # Api routes:
 ## User registration
 `POST /regist` 
+### Request:
 ```
-### Request : <br />
 email (valid email) , password (longer then 8 symbols), firstName, lastName
 ```
